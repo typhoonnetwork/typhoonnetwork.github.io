@@ -10,6 +10,8 @@ enableEmoji = true
 enableRobotsTXT = true
 canonifyURLs = true
 
+googleAnalytics = "G-2X084KLVST"
+
 [params]
   author = "Typhoon Network"
   github = "https://github.com/typhoonnetwork"
