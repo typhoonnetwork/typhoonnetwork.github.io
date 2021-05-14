@@ -1,4 +1,4 @@
-baseURL = "http://archive.typhoon.network/"
+baseURL = "https://archive.typhoon.network/"
 languageCode = "en-us"
 title = "Typhoon Network"
 theme = "ananke"
