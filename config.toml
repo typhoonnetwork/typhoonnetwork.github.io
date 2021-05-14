@@ -1,6 +1,6 @@
 baseURL = "https://archive.typhoon.network/"
 languageCode = "en-us"
-title = "Typhoon Network"
+title = "Typhoon Network Archive"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
