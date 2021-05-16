@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/typhoon-network-digest-post-ifo-edition-beca0bfcfc09
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/typhoon-network-digest-post-ifo-edition-beca0bfcfc09
+
 ![](/img/1__kbM3vLheSN45S3Qkb9YhzQ.png)
 
 Hi and welcome to the second Typhoon Network digest. Last time we were right before the IFO. It’s been roughly a week since then, so what happened?

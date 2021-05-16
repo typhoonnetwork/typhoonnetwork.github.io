@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/resolving-the-wrong-network-error-f47eafb768ee
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/resolving-the-wrong-network-error-f47eafb768ee
+
 ![](/img/1__YaQTVLGeStyurpZJM9BdhA.jpeg)
 
 A common issue we get asked about on our telegram, is the site is displaying “wrong network” where the connect button should be.

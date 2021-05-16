@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/announcing-our-ifo-with-goose-defi-51021aa8be64
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/announcing-our-ifo-with-goose-defi-51021aa8be64
+
 ![](/img/1__m83kgbmCid3gRjiE6CC2vA.jpeg)
 
 **Update 2021–03–21:** We revised IFO details such as entry price and updated this post accordingly.

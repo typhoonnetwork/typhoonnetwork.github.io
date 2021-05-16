@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/announcing-the-typhoon-airdrop-a8fd5e572cc8
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/announcing-the-typhoon-airdrop-a8fd5e572cc8
+
 ![](/img/1__MNApfyPKzb72DNVFkDqvOw.png)
 
 With only 4 days left until our [IFO with GooseFinance](https://typhoonnetwork.medium.com/announcing-our-ifo-with-goose-defi-51021aa8be64), we’re working very hard on getting the service as polished as we can. We truly believe we have built something great and want everyone with a BSC wallet to give it a try and give us feedback!

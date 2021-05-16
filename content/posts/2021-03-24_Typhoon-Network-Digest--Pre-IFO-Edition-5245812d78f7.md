@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/typhoon-network-digest-pre-ifo-edition-5245812d78f7
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/typhoon-network-digest-pre-ifo-edition-5245812d78f7
+
 ![](/img/1__sh__3Vo__qMhGbFEYC5DJwiA.png)
 
 Hi and welcome to the first Typhoon Network digest, where we’ll be giving an overview of what happened in the recent days/weeks, our thoughts and what to expect next.

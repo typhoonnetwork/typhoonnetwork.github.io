@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/typhoon-network-digest-2021cw15-1c1ee6077080
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/typhoon-network-digest-2021cw15-1c1ee6077080
+
 ![](/img/1__kbM3vLheSN45S3Qkb9YhzQ.png)
 
 Hi and welcome to the third Typhoon Network digest. If you haven’t yet, check-out the previous entries to get up-to-speed with how the project is doing.

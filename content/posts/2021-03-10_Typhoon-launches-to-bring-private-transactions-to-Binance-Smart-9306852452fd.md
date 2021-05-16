@@ -10,6 +10,8 @@ slug: >-
   /@typhoonnetwork/typhoon-launches-to-bring-private-transactions-to-binance-smart-9306852452fd
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/typhoon-launches-to-bring-private-transactions-to-binance-smart-9306852452fd
+
 ![](/img/1__oyD5tLUh1pFiD2a3Zhk7TA.png)
 
 Blockchains are _designed_ to be public ledgers: Everyone can see everything that happens on those chains, that’s just how they work. It’s very easy to open bscscan.com, type in a wallet address and see what that wallet was up to:

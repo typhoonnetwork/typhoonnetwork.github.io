@@ -8,6 +8,8 @@ slug: >-
   /@typhoonnetwork/hi-and-welcome-to-this-weeks-edition-of-the-typhoon-network-a421937cf9c5
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/hi-and-welcome-to-this-weeks-edition-of-the-typhoon-network-a421937cf9c5
+
 ![](/img/1__kbM3vLheSN45S3Qkb9YhzQ.png)
 
 Hi and welcome to this weeks edition of the Typhoon Network digest.

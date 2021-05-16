@@ -10,6 +10,8 @@ slug: >-
   /@typhoonnetwork/on-sonar-whalespring-matthew-albright-and-getting-300-000-stolen-our-side-of-the-story-fe89ff100f67
 ---
 
+This story has originally appeared on https://typhoonnetwork.medium.com/on-sonar-whalespring-matthew-albright-and-getting-300-000-stolen-our-side-of-the-story-fe89ff100f67
+
 On 8th of May, our strategic partner WhaleSpring/Sonar, more specifically the person in charge Matthew Albright, made the decision to market-sell 2,000,000 TYPH tokens (resulting in actual $200,000 USD out of $560,000 USD worth) we have allocated to them as part of our partnership deal, crashing the TYPH token price and damaging investor trust.
 
 ![](/img/1__3yJBjQxewBHclxoHqiRQJw.png)

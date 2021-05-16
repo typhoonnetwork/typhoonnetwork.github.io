@@ -9,6 +9,8 @@ keywords: []
 slug: /@typhoonnetwork/adding-relayer-support-community-relayer-plans-e95a114fd0e0
 ---
 
+This story has originally appeared on https://medium.com/@typhoonnetwork/adding-relayer-support-community-relayer-plans-e95a114fd0e0
+
 ![](/img/1__XpJhHE4sefLxw6kzGraeIw.png)
 
 We’re happy to announce that we added _experimental_ support for relayers to Typhoon to further improve anonymity, with the first official relayer being available on the mainnet app from today. To use the official relayer, simply tick the “use relayer” checkbox (this will incur a 1% fee to the relayer wallet).
