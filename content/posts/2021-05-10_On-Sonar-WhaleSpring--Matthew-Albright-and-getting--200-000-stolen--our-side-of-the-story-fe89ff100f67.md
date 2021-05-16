@@ -1,10 +1,8 @@
 ---
 title: >-
-  On Sonar/WhaleSpring, Matthew Albright and getting $200,000 stolen- our side
-  of the story
+  On Matthew Albright, Sonar and getting $200,000 stolen
 description: >-
-  Our side of the story to Sonar/WhaleSpring, Matthew Albright and getting
-  $200,000 USD stolen by our strategic partner.
+  Our partner Sonar, more specifically the person in charge Matthew Albright, decided to market-sell 2,000,000 TYPH tokens and steal $200,000 USD from us
 date: "2021-05-10T02:25:59.500Z"
 categories: []
 keywords: []
